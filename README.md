@@ -1,2 +1,2 @@
-# "•"
-Project The •.
+# •
+Project "•".
